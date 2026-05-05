@@ -1,0 +1,1771 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260505120137XM0QM6</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605051201373FDSAX</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Imported Project</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>en</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777994405272</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mosryn93-qk7xwjo1o</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Unidad 1 Introducción a las fracciones</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Unidad 1 Introducción a las fracciones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Unidad 1 Introducción a las fracciones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Unidad 1 Introducción a las fracciones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosryn93-qk7xwjo1o</odePageId>
+      <odeBlockId>20251120044516OOIVNP</odeBlockId>
+      <blockName>Introducción a las fracciones</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosryn93-qk7xwjo1o</odePageId>
+          <odeBlockId>20251120044516OOIVNP</odeBlockId>
+          <odeIdeviceId>20251108192550597P8E</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><h1 style="text-align: center;"><strong>Introducción a las fracciones</strong></h1>
+<p><img src="{{context_path}}/content/resources/20251108192550597P8E/Fracciones.jpeg" title="Portada" width="448" height="256" alt="" style="display: block; margin-left: auto; margin-right: auto;"><br></p>
+<p><br></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20251108192550597P8E","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1 style=\"text-align: center;\"><strong>Introducción a las fracciones</strong></h1>\n<p><img src=\"{{context_path}}/content/resources/20251108192550597P8E/Fracciones.jpeg\" title=\"Portada\" width=\"448\" height=\"256\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosryn97-f4hpa1hbl</odePageId>
+  <odeParentPageId>page-mosryn93-qk7xwjo1o</odeParentPageId>
+  <pageName>Introducción</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosryn97-f4hpa1hbl</odePageId>
+      <odeBlockId>20251120044516CKLCJK</odeBlockId>
+      <blockName>Introducción</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosryn97-f4hpa1hbl</odePageId>
+          <odeBlockId>20251120044516CKLCJK</odeBlockId>
+          <odeIdeviceId>20251108200252823Y3S</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>Las fracciones son un concepto fundamental en las matemáticas que nos permite representar partes de un todo, desde dividir una pizza entre amigos hasta medir ingredientes en una receta o entender proporciones en el mundo real. Este curso, diseñado bajo la metodología ADDIE (Análisis, Diseño, Desarrollo, Implementación y Evaluación) y enfocado en Recursos Educativos Abiertos (REA), está dirigido a estudiantes de cuarto y quinto grado de primaria (aproximadamente de 9 a 11 años). A través de materiales interactivos como presentaciones, juegos, mapas conceptuales, infografías y videos, exploraremos las fracciones de manera visual, lúdica y contextualizada, fomentando la comprensión activa y la aplicación práctica. El objetivo es superar las dificultades comunes en la identificación y manipulación de fracciones, promoviendo un aprendizaje inclusivo, accesible y motivador que integre ejemplos cotidianos en entornos virtuales o presenciales. Al finalizar, los estudiantes no solo dominarán los conceptos básicos, sino que podrán relacionarlos con su vida diaria, fomentando habilidades matemáticas duraderas.</p>
+<p><img src="{{context_path}}/content/resources/20251108200252823Y3S/Infografa_-_Las_Fracciones_en_la_Vida_Cotidiana.png" width="880" height="2000" alt=""></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20251108200252823Y3S","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Las fracciones son un concepto fundamental en las matemáticas que nos permite representar partes de un todo, desde dividir una pizza entre amigos hasta medir ingredientes en una receta o entender proporciones en el mundo real. Este curso, diseñado bajo la metodología ADDIE (Análisis, Diseño, Desarrollo, Implementación y Evaluación) y enfocado en Recursos Educativos Abiertos (REA), está dirigido a estudiantes de cuarto y quinto grado de primaria (aproximadamente de 9 a 11 años). A través de materiales interactivos como presentaciones, juegos, mapas conceptuales, infografías y videos, exploraremos las fracciones de manera visual, lúdica y contextualizada, fomentando la comprensión activa y la aplicación práctica. El objetivo es superar las dificultades comunes en la identificación y manipulación de fracciones, promoviendo un aprendizaje inclusivo, accesible y motivador que integre ejemplos cotidianos en entornos virtuales o presenciales. Al finalizar, los estudiantes no solo dominarán los conceptos básicos, sino que podrán relacionarlos con su vida diaria, fomentando habilidades matemáticas duraderas.</p>\n<p><img src=\"{{context_path}}/content/resources/20251108200252823Y3S/Infografa_-_Las_Fracciones_en_la_Vida_Cotidiana.png\" width=\"880\" height=\"2000\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosryn98-ukq16ot3z</odePageId>
+  <odeParentPageId>page-mosryn97-f4hpa1hbl</odeParentPageId>
+  <pageName>Objetivos</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Objetivos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Objetivos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosryn98-ukq16ot3z</odePageId>
+      <odeBlockId>20251120044516GSTWAP</odeBlockId>
+      <blockName>Objetivos</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosryn98-ukq16ot3z</odePageId>
+          <odeBlockId>20251120044516GSTWAP</odeBlockId>
+          <odeIdeviceId>20251108205121647GOD</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><h3>Objetivo General</h3>
+<p>Al finalizar el curso, los estudiantes serán capaces de crear representaciones visuales y prácticas de fracciones que demuestren su comprensión integral y aplicación en contextos reales, integrando conocimientos básicos con habilidades analíticas y evaluativas.</p>
+<h3>Objetivos Específicos</h3>
+<ul>
+<li>Identificar y listar los elementos clave de una fracción, como numerador y denominador, a partir de ejemplos simples proporcionados en la presentación interactiva.</li>
+<li>Explicar la relación entre numerador y denominador en una fracción, utilizando ejemplos cotidianos como dividir una pizza o medir tiempo, para demostrar la idea de "parte de un todo".</li>
+<li>Aplicar fracciones simples en ejercicios interactivos, como resolver problemas visuales en el juego de gamificación para emparejar fracciones equivalentes.</li>
+<li>Diferenciar entre tipos de fracciones (propias, impropias y mixtas) mediante el análisis de un mapa conceptual, comparando sus características y relaciones jerárquicas.</li>
+<li>Evaluar la utilidad de fracciones en contextos reales, como en cocina o deportes, juzgando ejemplos de la infografía para determinar su relevancia y precisión.</li>
+<li>Diseñar una representación original de fracciones, como un video corto o infografía personalizada, integrando elementos visuales y narrativos aprendidos para ilustrar su aplicación en la vida diaria.</li>
+</ul><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20251108205121647GOD","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h3>Objetivo General</h3>\n<p>Al finalizar el curso, los estudiantes serán capaces de crear representaciones visuales y prácticas de fracciones que demuestren su comprensión integral y aplicación en contextos reales, integrando conocimientos básicos con habilidades analíticas y evaluativas.</p>\n<h3>Objetivos Específicos</h3>\n<ul>\n<li>Identificar y listar los elementos clave de una fracción, como numerador y denominador, a partir de ejemplos simples proporcionados en la presentación interactiva.</li>\n<li>Explicar la relación entre numerador y denominador en una fracción, utilizando ejemplos cotidianos como dividir una pizza o medir tiempo, para demostrar la idea de \"parte de un todo\".</li>\n<li>Aplicar fracciones simples en ejercicios interactivos, como resolver problemas visuales en el juego de gamificación para emparejar fracciones equivalentes.</li>\n<li>Diferenciar entre tipos de fracciones (propias, impropias y mixtas) mediante el análisis de un mapa conceptual, comparando sus características y relaciones jerárquicas.</li>\n<li>Evaluar la utilidad de fracciones en contextos reales, como en cocina o deportes, juzgando ejemplos de la infografía para determinar su relevancia y precisión.</li>\n<li>Diseñar una representación original de fracciones, como un video corto o infografía personalizada, integrando elementos visuales y narrativos aprendidos para ilustrar su aplicación en la vida diaria.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosryn9a-uxwu5w6sg</odePageId>
+  <odeParentPageId>page-mosryn93-qk7xwjo1o</odeParentPageId>
+  <pageName>¿Qué son las fracciones?</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué son las fracciones?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué son las fracciones?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosryn9a-uxwu5w6sg</odePageId>
+      <odeBlockId>20251120044516GSIHQO</odeBlockId>
+      <blockName>¿Qué son las fracciones?</blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosryn9a-uxwu5w6sg</odePageId>
+          <odeBlockId>20251120044516GSIHQO</odeBlockId>
+          <odeIdeviceId>20251108211326322ALA</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Como primer paso para Aprender que son las fracciones veras el video "Aprendiendo fracciones con ejemplos" para posteriormente realizar la actividad "Relaciona las fracciones"</p>
+<p style="text-align: center;"><iframe width="560" height="314" src="https://www.youtube.com/embed/GlfoAwiLY4Q" allowfullscreen="allowfullscreen"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20251108211326322ALA","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Como primer paso para Aprender que son las fracciones veras el video \"Aprendiendo fracciones con ejemplos\" para posteriormente realizar la actividad \"Relaciona las fracciones\"</p>\n<p style=\"text-align: center;\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/GlfoAwiLY4Q\" allowfullscreen=\"allowfullscreen\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mosryn9a-uxwu5w6sg</odePageId>
+      <odeBlockId>block-1777997651884-3ng66wpf5</odeBlockId>
+      <blockName>Podcast</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosryn9a-uxwu5w6sg</odePageId>
+          <odeBlockId>block-1777997651884-3ng66wpf5</odeBlockId>
+          <odeIdeviceId>idevice-1777997651880-8ezictbls</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Si te quedaron dudas o aprender escuchando es lo tuyo te comparto el siguiente podcast donde también aprenderás que son las fracciones </p>
+<p><video width="300" height="150" controls="controls">
+<source src="https://open.spotify.com/episode/24UuAzGXT3DLaeHozv5Fw1?si=r2zX89_cR2Cb0kzmudE-BA" /></video></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777997651880-8ezictbls","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Si te quedaron dudas o aprender escuchando es lo tuyo te comparto el siguiente podcast donde también aprenderás que son las fracciones </p>\n<p><video width=\"300\" height=\"150\" controls=\"controls\">\n<source src=\"https://open.spotify.com/episode/24UuAzGXT3DLaeHozv5Fw1?si=r2zX89_cR2Cb0kzmudE-BA\" /></video></p>\n<p></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mosryn9a-uxwu5w6sg</odePageId>
+      <odeBlockId>20251120044516TRPLZN</odeBlockId>
+      <blockName>Clasifica</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosryn9a-uxwu5w6sg</odePageId>
+          <odeBlockId>20251120044516TRPLZN</odeBlockId>
+          <odeIdeviceId>202511082122128005TD</odeIdeviceId>
+          <odeIdeviceTypeName>classify</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="clasifica-IDevice"><div class="game-evaluation-ids js-hidden" data-id="202511082122128005TD" data-evaluationb="false" data-evaluationid="20251108223212BOZEYH"></div><div class="clasifica-feedback-game"></div><div class="clasifica-instructions"><p>Arrastra la imagen hacía la fracción que representa</p></div><div class="clasifica-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FE%F3%E1%FB%F4%FB%F1%F3%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC%D3%E0%E0%F3%E1%E6%E0%F3%B2%FE%F3%B2%FB%FF%F3%F5%F7%FC%B2%FA%F3%F1%7F%F3%B2%FE%F3%B2%F4%E0%F3%F1%F1%FBa%FC%B2%E3%E7%F7%B2%E0%F7%E2%E0%F7%E1%F7%FC%E6%F3%AE%BD%E2%AC%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E5%FD%E0%F6%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F4%FB%FE%F7%E1%BD%E6%FF%E2%BD%A0%A2%A0%A7%BD%A3%A3%BD%A2%AA%BD%A0%A2%A0%A7%A3%A3%A2%AA%A0%A0%A1%A0%A2%AB%DA%C7%D3%DA%C8%C3%BD%A0%A2%A0%A7%A3%A3%A2%AA%A0%A3%A0%A0%A3%A0%AA%A2%A2%A7%C6%D6%BD%BD%E6%E0%F7%E1%F1%E7%F3%E0%E6%FD%E1%BC%E2%FC%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A2%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%EA%B0%A8%FC%E7%FE%FE%BE%B0%EB%B0%A8%FC%E7%FE%FE%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F4%FB%FE%F7%E1%BD%E6%FF%E2%BD%A0%A2%A0%A7%BD%A3%A3%BD%A2%AA%BD%A0%A2%A0%A7%A3%A3%A2%AA%A0%A0%A1%A0%A2%AB%DA%C7%D3%DA%C8%C3%BD%A0%A2%A0%A7%A3%A3%A2%AA%A0%A3%A0%A0%A3%A0%AA%A2%A2%A7%C6%D6%BD%BD%F6%FD%E1%FD%F1%E6%F3%E4%FD%E1%BC%E2%FC%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A3%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%EA%B0%A8%FC%E7%FE%FE%BE%B0%EB%B0%A8%FC%E7%FE%FE%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F4%FB%FE%F7%E1%BD%E6%FF%E2%BD%A0%A2%A0%A7%BD%A3%A3%BD%A2%AA%BD%A0%A2%A0%A7%A3%A3%A2%AA%A0%A0%A1%A0%A2%AB%DA%C7%D3%DA%C8%C3%BD%A0%A2%A0%A7%A3%A3%A2%AA%A0%A3%A0%A0%A3%A0%AA%A2%A2%A7%C6%D6%BD%BD%E6%E0%F7%E1%F1%E7%F3%E0%E6%FD%E1%CD%A0%BC%E2%FC%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A2%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%EA%B0%A8%FC%E7%FE%FE%BE%B0%EB%B0%A8%FC%E7%FE%FE%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F4%FB%FE%F7%E1%BD%E6%FF%E2%BD%A0%A2%A0%A7%BD%A3%A3%BD%A2%AA%BD%A0%A2%A0%A7%A3%A3%A2%AA%A0%A0%A1%A0%A2%AB%DA%C7%D3%DA%C8%C3%BD%A0%A2%A0%A7%A3%A3%A2%AA%A0%A3%A0%A0%A3%A0%AA%A2%A2%A7%C6%D6%BD%BD%E7%FC%CD%FF%F7%F6%FB%FD%BC%E2%FC%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A0%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%EA%B0%A8%FC%E7%FE%FE%BE%B0%EB%B0%A8%FC%E7%FE%FE%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F4%FB%FE%F7%E1%BD%E6%FF%E2%BD%A0%A2%A0%A7%BD%A3%A3%BD%A2%AA%BD%A0%A2%A0%A7%A3%A3%A2%AA%A0%A0%A1%A0%A2%AB%DA%C7%D3%DA%C8%C3%BD%A0%A2%A0%A7%A3%A3%A2%AA%A0%A3%A0%A0%A3%A0%AA%A2%A2%A7%C6%D6%BD%BD%F6%FD%E1%FD%F1%E6%F3%E4%FD%E1%A0%BC%E2%FC%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A3%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%EA%B0%A8%FC%E7%FE%FE%BE%B0%EB%B0%A8%FC%E7%FE%FE%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F4%FB%FE%F7%E1%BD%E6%FF%E2%BD%A0%A2%A0%A7%BD%A3%A3%BD%A2%AA%BD%A0%A2%A0%A7%A3%A3%A2%AA%A0%A0%A1%A0%A2%AB%DA%C7%D3%DA%C8%C3%BD%A0%A2%A0%A7%A3%A3%A2%AA%A0%A3%A0%A0%A3%A0%AA%A2%A2%A7%C6%D6%BD%BD%E7%FC%CD%FF%F7%F6%FB%FD%A0%BC%E2%FC%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A0%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%EA%B0%A8%FC%E7%FE%FE%BE%B0%EB%B0%A8%FC%E7%FE%FE%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F4%FB%FE%F7%E1%BD%E6%FF%E2%BD%A0%A2%A0%A7%BD%A3%A3%BD%A2%AA%BD%A0%A2%A0%A7%A3%A3%A2%AA%A0%A0%A1%A0%A2%AB%DA%C7%D3%DA%C8%C3%BD%A0%A2%A0%A7%A3%A3%A2%AA%A0%A3%A0%A0%A3%A0%AA%A2%A2%A7%C6%D6%BD%BD%E6%E0%F7%E1%F1%E7%F3%E0%E6%FD%E1%A1%BC%E2%FC%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A2%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%EA%B0%A8%FC%E7%FE%FE%BE%B0%EB%B0%A8%FC%E7%FE%FE%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F4%FB%FE%F7%E1%BD%E6%FF%E2%BD%A0%A2%A0%A7%BD%A3%A3%BD%A2%AA%BD%A0%A2%A0%A7%A3%A3%A2%AA%A0%A0%A1%A0%A2%AB%DA%C7%D3%DA%C8%C3%BD%A0%A2%A0%A7%A3%A3%A2%AA%A0%A3%A0%A0%A3%A0%AA%A2%A2%A7%C6%D6%BD%BD%F6%FD%E1%FD%F1%E6%F3%E4%FD%E1%A1%BC%E2%FC%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A3%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%EA%B0%A8%FC%E7%FE%FE%BE%B0%EB%B0%A8%FC%E7%FE%FE%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F4%FB%FE%F7%E1%BD%E6%FF%E2%BD%A0%A2%A0%A7%BD%A3%A3%BD%A2%AA%BD%A0%A2%A0%A7%A3%A3%A2%AA%A0%A0%A1%A0%A2%AB%DA%C7%D3%DA%C8%C3%BD%A0%A2%A0%A7%A3%A3%A2%AA%A0%A3%A0%A0%A3%A0%AA%A2%A2%A7%C6%D6%BD%BD%E7%FC%FF%F7%F6%FB%FD%A1%BC%E2%FC%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A0%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%F1%E7%E1%E6%FD%FF%DF%F7%E1%E1%F3%F5%F7%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%A3%A2%A2%BE%B0%E6%FB%FF%F7%B0%A8%A0%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A2%BC%AA%BE%B0%F5%E0%FD%E7%E2%E1%B0%A8%C9%B0%A1%BD%A6%B0%BE%B0%A0%BD%AA%B0%BE%B0%A3%BD%A0%B0%BE%B0%D5%E0%E7%E2%FD%B2%A6%B0%CF%BE%B0%FC%E7%FF%F0%F7%E0%D5%E0%FD%E7%E2%E1%B0%A8%A1%BE%B0%F5%F3%FF%F7%DE%F7%E4%F7%FE%B0%A8%A2%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%A0%A2%A0%A7%A3%A3%A2%AA%A0%A0%A1%A0%A3%A0%D0%DD%C8%D7%CB%DA%B0%BE%B0%FB%FF%F5%D1%F3%E0%F6%B0%A8%B0%F4%FB%FE%F7%E1%BD%E6%FF%E2%BD%A0%A2%A0%A7%BD%A3%A3%BD%A2%AA%BD%A0%A2%A0%A7%A3%A3%A2%AA%A0%A0%A1%A0%A2%AB%DA%C7%D3%DA%C8%C3%BD%A0%A2%A0%A7%A3%A3%A2%AA%A0%A3%A0%A0%A3%A0%AA%A2%A2%A7%C6%D6%BD%BD%E2%FD%E0%E6%F3%F6%F3%CD%F8%E7%F7%F5%FD%A3%BC%E5%F7%F0%E2%B0%BE%B0%FB%F6%B0%A8%B0%A0%A2%A0%A7%A3%A3%A2%AA%A0%A3%A0%A0%A3%A0%AA%A2%A2%A7%C6%D6%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C1%E7%F0%FF%FB%E6%B0%A8%B0%D7%FC%E4%FB%F3%E0%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%D3%F5%F3%FB%FC%B0%A8%B0%D8%E7%F5%F3%E0%B2%FD%E6%E0%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F7%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%F7%E1%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B2%E1%FB%FC%B2%FB%FFs%F5%F7%FC%F7%E1%B0%BE%B0%FF%E1%F5%D1%FD%FD%FE%B0%A8%B03%D0%FB%F7%FC%B3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%DC%F7%F1%F7%E1%FB%E6%F3%E1%B2%F3%FE%B2%FF%F7%FC%FD%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%FC%F7%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%D3%FC%E6%F7%E1%B2%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F1%FD%FF%FB%F7%FC%F1%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0%D3%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%CB%F7%E1%B0%A8%B0%C1%7F%B0%BE%B0%FF%E1%F5%DC%FD%B0%A8%B0%DC%FD%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%DD%E4%F7%E0%B0%A8%B0%C6%E7%B2%E6%FB%F7%FF%E2%FD%B2%FA%F3%B2%F4%FB%FC%F3%FE%FB%E8%F3%F6%FD%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%B0%BE%B0%FF%F5%E1%D5%F3%FF%F7%C1%E6%F3%E0%E6%B0%A8%B03%D7%FE%B2%F8%E7%F7%F5%FD%B2%FA%F3%B2%F1%FD%FF%F7%FC%E8%F3%F6%FD%B3%B2%D3%E0%E0%F3%E1%E6%E0%F3%B2%F1%F3%F6%F3%B2%E6%F3%E0%F8%F7%E6%F3%B2%FA%F3%E1%E6%F3%B2%E1%E7%B2%F1%FD%FC%E6%F7%FC%F7%F6%FD%E0%B0%BE%B0%FF%E1%F5%C1%F7%FE%F7%F1%E6%D1%F3%E0%F6%B0%A8%B0%C1%F7%FE%F7%F1%F1%FB%FD%FC%F3%B2%FD%E6%E0%F3%B2%E6%F3%E0%F8%F7%E6%F3%B0%BE%B0%FF%E1%F5%C1%F7%FE%F7%F1%E6%D1%F3%E0%F6%DD%FC%F7%B0%A8%B0%C1%F7%FE%F7%F1%F1%FB%FD%FC%F3%B2%E7%FC%F3%B2%E6%F3%E0%F8%F7%E6%F3%B0%BE%B0%FF%E1%F5%C0%F7%F0%FD%FD%E6%B0%A8%B0%C0%F7%FB%FC%FB%F1%FB%F3%E0%B0%BE%B0%FF%E1%F5%C6%F7%E1%E6%C2%F3%E1%E1%F7%F6%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B23%C2%E0%E7%F7%F0%F3%B2%E1%E7%E2%F7%E0%F3%F6%F3%B3%B0%BE%B0%FF%E1%F5%C6%F7%E1%E6%D4%F3%FB%FE%F7%F6%B0%A8%B0%DC%FD%B2%FA%F3%E1%B2%E1%E7%E2%F7%E0%F3%F6%FD%B2%FE%F3%B2%E2%E0%E7%F7%F0%F3%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%B0%BE%B0%FF%E1%F5%C0%F7%F0%FD%FD%E6%D5%F3%FF%F7%B0%A8%B0-%D6%F7%E1%F7%F3%E1%B2%E0%F7%FB%FC%FB%F1%FB%F3%E0%B2%F7%E1%E6%F3%B2%E2%F3%E0%E6%FB%F6%F3%AD%B0%BE%B0%FF%E1%F5%D1%FD%FC%E6%FB%FC%E7%F7%B0%A8%B0%D1%FD%FC%E6%FB%FC%E7%F3%E0%B0%BE%B0%FF%E1%F5%C1%FA%FD%E5%D3%FC%E1%E5%F7%E0%E1%B0%A8%B0%D1%FD%FF%E2%E0%FD%F0%F3%E0%B2%E0%F7%E1%E7%FE%E6%F3%F6%FD%E1%B0%BE%B0%FF%E1%F5%C7%FC%F3%FC%E1%E5%F7%E0%F7%F6%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%C6%F7%B2%FA%F3%FC%B2%E3%E7%F7%F6%F3%F6%FD%B2%B7%E1%B2%E6%F3%E0%F8%F7%E6%F3%E1%B2%E2%FD%E0%B2%F1%FD%FE%FD%F1%F3%E0%B2%F1%FD%E0%E0%F7%F1%E6%F3%FF%F7%FC%E6%F7%BC%B2-%C3%E7%FB%F7%E0%F7%E1%B2%FB%FC%E6%F7%FC%E6%F3%E0%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%AD%B0%BE%B0%FF%E1%F5%D3%FE%FE%D1%FD%E0%E0%F7%F1%E6%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B23%C6%FD%F6%FD%B2%E2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%C6%FD%FD%DF%F3%FC%EB%C6%E0%FB%F7%E1%B0%A8%B03%D7%E1%E6%E7%E2%F7%FC%F6%FD%B3%B2%DA%F3%E1%B2%E0%F7%E1%E7%F7%FE%E6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F7%FC%B2%B7%E1%B2%FB%FC%E6%F7%FC%E6%FD%E1%BC%B23%C1%F7%F5%E7%E0%FD%B2%E3%E7%F7%B2%E2%E7%F7%F6%F7%E1%B2%FA%F3%F1%F7%E0%FE%FD%B2%FFs%E1%B2%E0s%E2%FB%F6%FD%B3%B0%BE%B0%FF%E1%F5%C3%A7%B0%A8%B0%DC%FD%B2%FA%F3%E1%B2%F1%FD%FE%FD%F1%F3%F6%FD%B2%B7%E1%B2%E6%F3%E0%F8%F7%E6%F3%E1%B2%F7%FC%B2%E1%E7%B2%FE%E7%F5%F3%E0%BC%B23%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%B3%B0%BE%B0%FF%E1%F5%C3%A5%B0%A8%B03%D7%E1%E6%E7%E2%F7%FC%F6%FD%B3%B2%DA%F3%E1%B2%F1%FE%F3%E1%FB%F4%FB%F1%F3%F6%FD%B2%F1%FD%E0%E0%F7%F1%E6%F3%FF%F7%FC%E6%F7%B2%FE%F3%B2%FF%F3%EB%FD%E0%B2%E2%F3%E0%E6%F7%B2%F6%F7%B2%FE%F3%E1%B2%E6%F3%E0%F8%F7%E6%F3%E1%BE%B2%B7%E1%BE%B2%E2%F7%E0%FD%B2%F3h%FC%B2%E2%E7%F7%F6%F7%E1%B2%FF%F7%F8%FD%E0%F3%E0%B0%BE%B0%FF%E1%F5%C3%AB%B0%A8%B03%DF%F3%F5%FC%7F%F4%FB%F1%FD%B3%B2%C6%F3%FC%B2%E1%FD%FE%FD%B2%E6%F7%B2%FA%F3%FC%B2%E3%E7%F7%F6%F3%F6%FD%B2%B7%E1%B2%E6%F3%E0%F8%F7%E6%F3%E1%B2%E2%FD%E0%B2%F1%FD%FE%FD%F1%F3%E0%B2%F1%FD%E0%E0%F7%F1%E6%F3%FF%F7%FC%E6%F7%BC%B2%D0%E7%E1%F1%F3%B2%FE%F3%B2%E2%F7%E0%F4%F7%F1%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D5%F3%FF%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F3%FE%B2%F4%FB%FC%F3%FE%FB%E8%F3%E0%B2%F7%FE%B2%F8%E7%F7%F5%FD%BC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D5%F3%FF%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F3%FE%B2%F4%FB%FC%F3%FE%FB%E8%F3%E0%B2%F7%FE%B2%F8%E7%F7%F5%FD%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%E1%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%E0%C1%F1%FD%E0%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%E1%B2%F5%E7%F3%E0%F6%F3%E0%B2%E6%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%E0%F3%E1%B2%F4%FB%FC%F3%FE%FB%E8%F3%E0%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%BC%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FE%F3%E1%FB%F4%FB%F1%F3%B0%EF%EF</div><a href="{{context_path}}/content/resources/202511082122128005TD/trescuartos.png" class="js-hidden clasifica-LinkImages">0</a><a href="{{context_path}}/content/resources/202511082122128005TD/dosoctavos.png" class="js-hidden clasifica-LinkImages">1</a><a href="{{context_path}}/content/resources/202511082122128005TD/trescuartos_2.png" class="js-hidden clasifica-LinkImages">2</a><a href="{{context_path}}/content/resources/202511082122128005TD/un_medio.png" class="js-hidden clasifica-LinkImages">3</a><a href="{{context_path}}/content/resources/202511082122128005TD/dosoctavos2.png" class="js-hidden clasifica-LinkImages">4</a><a href="{{context_path}}/content/resources/202511082122128005TD/un_medio2.png" class="js-hidden clasifica-LinkImages">5</a><a href="{{context_path}}/content/resources/202511082122128005TD/trescuartos3.png" class="js-hidden clasifica-LinkImages">6</a><a href="{{context_path}}/content/resources/202511082122128005TD/dosoctavos3.png" class="js-hidden clasifica-LinkImages">7</a><a href="{{context_path}}/content/resources/202511082122128005TD/unmedio3.png" class="js-hidden clasifica-LinkImages">8</a><a href="{{context_path}}/content/resources/202511082122128005TD/portada_juego1.webp" class="js-hidden clasifica-ImageBack" alt="Back" />Background</a><div class="clasifica-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosryn9b-r8w1c7fkd</odePageId>
+  <odeParentPageId>page-mosryn9a-uxwu5w6sg</odeParentPageId>
+  <pageName>Tipos de fracciones</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tipos de fracciones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tipos de fracciones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosryn9b-r8w1c7fkd</odePageId>
+      <odeBlockId>20251120044516EFJVKF</odeBlockId>
+      <blockName>Mapa conceptual Tipos de fracciones</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosryn9b-r8w1c7fkd</odePageId>
+          <odeBlockId>20251120044516EFJVKF</odeBlockId>
+          <odeIdeviceId>20251108224336717G20</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>En esta infografía aprenderás sobre los 3 tipos de fracciones&nbsp;</p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/20251108224336717G20/Pgina_de_Portada_de_Matemticas_ilustrada_morada.png" width="1366" height="1932" alt=""></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20251108224336717G20","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta infografía aprenderás sobre los 3 tipos de fracciones </p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/20251108224336717G20/Pgina_de_Portada_de_Matemticas_ilustrada_morada.png\" width=\"1366\" height=\"1932\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mosryn9b-r8w1c7fkd</odePageId>
+      <odeBlockId>20251120044516TJNEZF</odeBlockId>
+      <blockName>Crea Fracciones propias y mixtas</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosryn9b-r8w1c7fkd</odePageId>
+          <odeBlockId>20251120044516TJNEZF</odeBlockId>
+          <odeIdeviceId>20251108225336405AJV</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://excelschools.net/sims/html/build-a-fraction/latest/build-a-fraction_all.html?locale=en" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosryn9c-s410mps5v</odePageId>
+  <odeParentPageId>page-mosryn93-qk7xwjo1o</odeParentPageId>
+  <pageName>Suma y Resta de fracciones</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Suma y Resta de fracciones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Suma y Resta de fracciones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosryn9c-s410mps5v</odePageId>
+      <odeBlockId>20251120044516KVQFAO</odeBlockId>
+      <blockName>Suma de fracciones</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosryn9c-s410mps5v</odePageId>
+          <odeBlockId>20251120044516KVQFAO</odeBlockId>
+          <odeIdeviceId>20251108233404417U4U</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><h4>Suma con el mismo denominador</h4>
+<p>Si las fracciones tienen el mismo denominador, solo sumas los numeradores y dejas el denominador igual.&nbsp;</p>
+<p>Como el siguiente ejemplo:&nbsp;</p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/20251108233404417U4U/suma_mismo_denominador.png" width="486" height="162" alt=""></p>
+<h3 style="text-align: left;">Suma con diferente denominador</h3>
+<p>Usaremos un método rápido y sencillo, primero multiplicamos los denominadores (b×d), después multiplicamos en forma de X (a×d y b×c) y sumamos esos productos.</p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/20251108233404417U4U/explicacion_suma.png" width="501" height="231" alt=""></p>
+<p>Es mucho más fácil de lo que parece, observa el siguiente ejemplo:</p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/20251108233404417U4U/suma_diferrente_denominador.png" width="513" height="170" alt=""></p>
+<p>&nbsp;</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20251108233404417U4U","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h4>Suma con el mismo denominador</h4>\n<p>Si las fracciones tienen el mismo denominador, solo sumas los numeradores y dejas el denominador igual. </p>\n<p>Como el siguiente ejemplo: </p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/20251108233404417U4U/suma_mismo_denominador.png\" width=\"486\" height=\"162\" alt=\"\" /></p>\n<h3 style=\"text-align: left;\">Suma con diferente denominador</h3>\n<p>Usaremos un método rápido y sencillo, primero multiplicamos los denominadores (b×d), después multiplicamos en forma de X (a×d y b×c) y sumamos esos productos.</p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/20251108233404417U4U/explicacion_suma.png\" width=\"501\" height=\"231\" alt=\"\" /></p>\n<p>Es mucho más fácil de lo que parece, observa el siguiente ejemplo:</p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/20251108233404417U4U/suma_diferrente_denominador.png\" width=\"513\" height=\"170\" alt=\"\" /></p>\n<p> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mosryn9c-s410mps5v</odePageId>
+      <odeBlockId>20251120044516FLZWVM</odeBlockId>
+      <blockName>Resta de fracciones</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosryn9c-s410mps5v</odePageId>
+          <odeBlockId>20251120044516FLZWVM</odeBlockId>
+          <odeIdeviceId>20251108234818610VHI</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><h4>Resta de fracciones con el mismo denominador</h4>
+<p>En el caso de las restas el procedimiento no es muy diferente al de las sumas, restas los numeradores y dejas el denominador. Como en el siguiente ejemplo:</p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/20251108234818610VHI/resta_de_fracciones1.png" width="481" height="134" alt=""></p>
+<h4 style="text-align: left;">Resta de fracciones con diferente denominador</h4>
+<p>En el caso de que tengan diferente denominador seguiremos el mismo procedimiento que en las sumas con diferente denominador</p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/20251108234818610VHI/explicacion_resta.png" width="519" height="219" alt=""></p>
+<p style="text-align: left;">Acontinuación un ejemplo:&nbsp;</p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/20251108234818610VHI/resta2.png" width="525" height="212" alt=""></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20251108234818610VHI","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h4>Resta de fracciones con el mismo denominador</h4>\n<p>En el caso de las restas el procedimiento no es muy diferente al de las sumas, restas los numeradores y dejas el denominador. Como en el siguiente ejemplo:</p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/20251108234818610VHI/resta_de_fracciones1.png\" width=\"481\" height=\"134\" alt=\"\" /></p>\n<h4 style=\"text-align: left;\">Resta de fracciones con diferente denominador</h4>\n<p>En el caso de que tengan diferente denominador seguiremos el mismo procedimiento que en las sumas con diferente denominador</p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/20251108234818610VHI/explicacion_resta.png\" width=\"519\" height=\"219\" alt=\"\" /></p>\n<p style=\"text-align: left;\">Acontinuación un ejemplo: </p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/20251108234818610VHI/resta2.png\" width=\"525\" height=\"212\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosryn9d-h98e5ozcb</odePageId>
+  <odeParentPageId>page-mosryn9c-s410mps5v</odeParentPageId>
+  <pageName>Ejercicio suma y resta de fracciones</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Ejercicio suma y resta de fracciones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Ejercicio suma y resta de fracciones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosryn9d-h98e5ozcb</odePageId>
+      <odeBlockId>20251120044516UYMNZO</odeBlockId>
+      <blockName>Ejercicios suma y resta de fracciones</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosryn9d-h98e5ozcb</odePageId>
+          <odeBlockId>20251120044516UYMNZO</odeBlockId>
+          <odeIdeviceId>20251109003027624D3K</odeIdeviceId>
+          <odeIdeviceTypeName>trivial</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="trivial-IDevice"><div class="trivial-instructions"><p>Lanza el dado y contesta a la pregunta hasta completar todos los quesos.</p></div><div class="game-evaluation-ids js-hidden" data-id="20251109003027624D3K" data-evaluationb="false" data-evaluationid="20251108223212BOZEYH"></div><div class="trivial-DataGame js-hidden">{"asignatura":"","author":"","authorVideo":"","typeGame":"Trivial","endVideo":0,"idVideo":"","startVideo":"","instructionsExe":"<p>Lanza el dado y contesta a la pregunta hasta completar todos los quesos.</p>","instructions":"Lanza el dado y contesta a la pregunta hasta completar todos los quesos. ","showMinimize":false,"optionsRamdon":true,"answersRamdon":true,"showSolution":true,"timeShowSolution":3,"useLives":false,"numberLives":3,"itinerary":{"showClue":false,"clueGame":"","percentageClue":100,"showCodeAccess":false,"codeAccess":"","messageCodeAccess":""},"numeroTemas":2,"nombresTemas":["Suma de fracciones","Resta de fracciones","Tema 3","Tema 4","Tema 5","Tema 6"],"temas":[[{"a":"","b":0,"c":0,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["3/4","2/4","3/8","3/2"],"p":0,"q":"1/4 + 2/4","r":"","s":"OUE=","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":0,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["4/5","2/5","5/6","5/6"],"p":0,"q":"1/2 + 1/3","r":"","s":"OUM=","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":0,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["10/4","4/5","5/4","3/4"],"p":0,"q":"3/5 + 1/5","r":"","s":"OUI=","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":0,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["3/9","9/3","6/5","5/6"],"p":0,"q":"2/3 + 1/6","r":"","s":"OUQ=","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":0,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["4/8","8/4","2/4","5/8"],"p":0,"q":"5/4 + 3/4","r":"","s":"OUJD","t":"","u":"","x":0,"y":0,"z":0,"ad":""}],[{"a":"","b":0,"c":0,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["4/2","6/8","2/4","8/6"],"p":0,"q":"3/4 -1/4","r":"","s":"OEM=","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":0,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["2/3","6/3","3/2","3/6"],"p":0,"q":"5/6  -1/3","r":"","s":"OUQ=","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":0,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["4/4","4/8","3/8","7/8"],"p":0,"q":"7/8 -3/8","r":"","s":"OEI=","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":0,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["2/5","6/5","6/10","2/4"],"p":0,"q":"4/5 - 2/5","r":"","s":"OUE=","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":0,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["4/4","4/2","2/2","14/4"],"p":0,"q":"9/4 - 5/4","r":"","s":"OUFD","t":"","u":"","x":0,"y":0,"z":0,"ad":""}]],"isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100,"title":"","customScore":false,"textAfter":"","msgs":{"msgStartGame":"Pulse aquí para empezar","msgSubmit":"Enviar","msgEnterCode":"Introduzca el código de acceso","msgErrorCode":"El código de acceso no es correcto","msgGameOver":"¡Fin de la partida!","msgClue":"¡Genial! La pista es:","msgNewGame":"Pulse aquí para empezar otra partida","msgCodeAccess":"Código de acceso","msgPlayStart":"Pulse aquí para jugar","msgMinimize":"Minimizar","msgMaximize":"Maximizar","msgTime":"Tiempo por pregunta","msgFullScreen":"Pantalla Completa","msgExitFullScreen":"Salir del modo pantalla completa","msgNoImage":"Pregunta sin imágenes","msgSuccesses":"¡Correcto! | ¡Excelente! | ¡Genial! | ¡Muy bien! | ¡Perfecto!","msgFailures":"¡No era eso! | ¡Incorrecto! | ¡No es correcto! | ¡Lo sentimos! | ¡Error!","msgNotNetwork":"A este juego solo se puede jugar con conexión a internet.","msgQuestion":"Pregunta","msgAnswer":"Comprobar","msgInformation":"Información","msgAuthor":"Autoría","msgActityComply":"Ya ha realizado esta actividad.","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgYouLastScore":"La última puntuación guardada es","msgOption":"Opción","msgImage":"Imagen","msgOrders":"Ordena todas las respuestas","msgIndicateWord":"Proporcione una palabra o expresión","msgGameStarted":"El juego ya ha comenzado.","msgPlayersName":"Debes indicar un nombre para todos los jugadores seleccionados.","msgReboot":"¿Deseas reiniciar el juego?","msgRoolDice":"lanza el dado.","msgsWinner":"El juego ha terminado. El ganador es %1. ¿Deseas volver a jugar?","msgWinGame":"¡Genial! Ganas la partida.","msgsYouPlay":"tú juegas. Lanza el dado.","msgSaveDiceAuto":"Su puntuación se guardará automáticamente tras cada tirada.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgOnlyFirstGame":"Solo puede jugar una vez.","msgGamers":"Jugadores","msgReply":"Responder","msgErrorQuestion":"has fallado.","msgGetQueso":"consigues el queso de","msgRightAnswre":"Un punto más.","msgAudio":"Audio","msgCorrect":"Correcto","msgIncorrect":"Incorrecto","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgNext":"Siguiente","msgTypeGame":"TriviExt","msgRestart":"Reiniciar","msgYouScore":"Su puntuación"},"trivialID":1762669831927,"version":3,"modeBoard":false,"evaluation":false,"evaluationID":"20251108223212BOZEYH","id":"20251109003027624D3K"}</div><div class="trivial-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777994783661-uaapahqba</odePageId>
+  <odeParentPageId>page-mosryn9d-h98e5ozcb</odeParentPageId>
+  <pageName>¡Resolvamos problemas Juntos!</pageName>
+  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¡Resolvamos problemas Juntos!</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777994783661-uaapahqba</odePageId>
+      <odeBlockId>block-1777994994193-f12yhxmyn</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777994783661-uaapahqba</odePageId>
+          <odeBlockId>block-1777994994193-f12yhxmyn</odeBlockId>
+          <odeIdeviceId>idevice-1777994994191-s7w955lg6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1 style="text-align: center;">Operaciones con fracciones </h1>
+<p></p>
+<p>Ahora que ya sabes como sumar y restar fracciones es momento de practicar, ve el siguiente video y resolvamos los ejercicios juntos</p>
+<p><iframe width="642" height="360" src="https://www.youtube.com/embed/3tdeSvBUsAU?si=JYyckX4D-TUUjI-O" allowfullscreen="allowfullscreen"></iframe></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777994994191-s7w955lg6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1 style=\"text-align: center;\">Operaciones con fracciones </h1>\n<p></p>\n<p>Ahora que ya sabes como sumar y restar fracciones es momento de practicar, ve el siguiente video y resolvamos los ejercicios juntos</p>\n<p><iframe width=\"642\" height=\"360\" src=\"https://www.youtube.com/embed/3tdeSvBUsAU?si=JYyckX4D-TUUjI-O\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosryn9e-m0s7u7wu7</odePageId>
+  <odeParentPageId>page-mosryn93-qk7xwjo1o</odeParentPageId>
+  <pageName>Fracciones equivalentes</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Fracciones equivalentes</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Fracciones equivalentes</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosryn9e-m0s7u7wu7</odePageId>
+      <odeBlockId>20251120044516JFNPDQ</odeBlockId>
+      <blockName>Fracciones equivalentes</blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosryn9e-m0s7u7wu7</odePageId>
+          <odeBlockId>20251120044516JFNPDQ</odeBlockId>
+          <odeIdeviceId>20251109005609506KWN</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>Pon atención al siguiente video donde se explican que son las fracciones equivalentes:</p>
+<p style="text-align: center;"><iframe width="560" height="314" style="text-align: center;" src="https://www.youtube.com/embed/Wtqd-1gHpe4" allowfullscreen="allowfullscreen"></iframe><br></p>
+<p style="text-align: left;">Ahora estas listo para realizar la siguiente actividad sobre fracciones equivalentes</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20251109005609506KWN","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Pon atención al siguiente video donde se explican que son las fracciones equivalentes:</p>\n<p style=\"text-align: center;\"><iframe width=\"560\" height=\"314\" style=\"text-align: center;\" src=\"https://www.youtube.com/embed/Wtqd-1gHpe4\" allowfullscreen=\"allowfullscreen\"></iframe><br /></p>\n<p style=\"text-align: left;\">Ahora estas listo para realizar la siguiente actividad sobre fracciones equivalentes</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosryn9f-o0ximjn7q</odePageId>
+  <odeParentPageId>page-mosryn9e-m0s7u7wu7</odeParentPageId>
+  <pageName>Empareja Fracciones con su Imagen</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Empareja Fracciones con su Imagen</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Empareja Fracciones con su Imagen</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosryn9f-o0ximjn7q</odePageId>
+      <odeBlockId>20251120044516GTHCMZ</odeBlockId>
+      <blockName>Empareja las fracciones con sus equivalentes</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosryn9f-o0ximjn7q</odePageId>
+          <odeBlockId>20251120044516GTHCMZ</odeBlockId>
+          <odeIdeviceId>20251109010219187ZTL</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://es.educaplay.com/recursos-educativos/25943288-empareja_fracciones_con_su_imagen.html" size="3" width="600" height="500" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosryn9h-8ddwttnx3</odePageId>
+  <odeParentPageId>page-mosryn93-qk7xwjo1o</odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosryn9h-8ddwttnx3</odePageId>
+      <odeBlockId>20251120044516QRUUHZ</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosryn9h-8ddwttnx3</odePageId>
+          <odeBlockId>20251120044516QRUUHZ</odeBlockId>
+          <odeIdeviceId>202511091416083429TN</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>Como evaluación de esta unidad deberás de hacer lo siguiente:</p>
+<ol>
+<li id="link_0">&nbsp;Entra al <a href="https://app.wooclap.com/QUYEMA?from=instruction-slide">enlace</a> del Foro siguiente y responderás las dos preguntas que se te presentan</li>
+<li>Elaboraras tu propio problema matemático&nbsp;&nbsp;</li>
+</ol>
+<p>Para más información consulta los 2 apartados de las actividades</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"202511091416083429TN","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Como evaluación de esta unidad deberás de hacer lo siguiente:</p>\n<ol>\n<li id=\"link_0\"> Entra al <a href=\"https://app.wooclap.com/QUYEMA?from=instruction-slide\">enlace</a> del Foro siguiente y responderás las dos preguntas que se te presentan</li>\n<li>Elaboraras tu propio problema matemático  </li>\n</ol>\n<p>Para más información consulta los 2 apartados de las actividades</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosryn9i-kuc36uv65</odePageId>
+  <odeParentPageId>page-mosryn9h-8ddwttnx3</odeParentPageId>
+  <pageName>Crea tu propio problema</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Crea tu propio problema</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Crea tu propio problema</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosryn9i-kuc36uv65</odePageId>
+      <odeBlockId>20251120044516LIFGSE</odeBlockId>
+      <blockName>Elaboración de un problema haciendo el uso de fracciones</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosryn9i-kuc36uv65</odePageId>
+          <odeBlockId>20251120044516LIFGSE</odeBlockId>
+          <odeIdeviceId>20251109011732214INN</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>Como parte de tu evaluación debes de elaborar un problema matemático que se resuelva haciendo el uso de fracciones, a continuación vera la rubrica para su elaboración y envía por correo electrónico&nbsp;</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20251109011732214INN","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Como parte de tu evaluación debes de elaborar un problema matemático que se resuelva haciendo el uso de fracciones, a continuación vera la rubrica para su elaboración y envía por correo electrónico </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mosryn9i-kuc36uv65</odePageId>
+      <odeBlockId>20251120044516HUXSRC</odeBlockId>
+      <blockName>Rúbrica</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosryn9i-kuc36uv65</odePageId>
+          <odeBlockId>20251120044516HUXSRC</odeBlockId>
+          <odeIdeviceId>2025110901102130898N</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p class="exe-rubrics-instructions">Rubrica para evaluar la creación de problemas matemáticos</p><table class='exe-table'><caption>Rúbrica de ejemplo (4x4)</caption><thead><tr><th>&nbsp;</th><th>Excelente</th><th>Bueno</th><th>Regular</th><th>Insuficiente</th></tr></thead><tbody><tr><th>Criterios 1</th><td>El problema es altamente original, usa un contexto cotidiano creativo (ej. receta de cocina o juego con amigos) y integra fracciones de forma inesperada. <span>(4)</span></td><td>El problema es original con un contexto real, pero podría ser más innovador. <span>(3)</span></td><td>El problema usa un contexto básico, con poca creatividad. <span>(2)</span></td><td>El problema copia ejemplos comunes sin originalidad. <span>(1)</span></td></tr><tr><th>Criterios 2</th><td>La operación es precisa, incluye fracciones propias/impropias correctas, y el resultado es lógico <span>(2.5)</span></td><td>La operación es mayormente correcta, con errores menores en simplificación <span>(1.75)</span></td><td>Hay errores en el denominador común o en el cálculo. <span>(1.50)</span></td><td>La operación es incorrecta o no aplica fracciones adecuadamente. <span>(1.25)</span></td></tr><tr><th>Criterios 3</th><td>El problema está redactado con claridad, coherencia y sin ambigüedades; incluye instrucciones precisas para resolverlo. <span>(2.5)</span></td><td>El enunciado es claro, pero podría mejorar en estructura o vocabulario. <span>(1.75)</span></td><td>El problema es confuso en partes, con incoherencias. <span>(1.50)</span></td><td>El enunciado es poco claro o incoherente, difícil de seguir. <span>(1.25)</span></td></tr><tr><th>Criterios 4</th><td>Incorpora visuals relevantes y bien integrados (ej. dibujo de pizza dividida) que mejoran la comprensión. <span>(2.5)</span></td><td>Usa visuals adecuados, pero podrían ser más detallados. <span>(1.75)</span></td><td>Incluye visuals básicos, con limitada relevancia. <span>(1.50)</span></td><td>No usa visuals o son irrelevantes. <span>(1.25)</span></td></tr></tbody></table><ul class="exe-rubrics-strings"><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li></ul>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosryn9i-sye9ent6x</odePageId>
+  <odeParentPageId>page-mosryn9i-kuc36uv65</odeParentPageId>
+  <pageName>Informe de actividades</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Informe de actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Informe de actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosryn9i-sye9ent6x</odePageId>
+      <odeBlockId>20251120044516NMNSBE</odeBlockId>
+      <blockName>Informe de progreso</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosryn9i-sye9ent6x</odePageId>
+          <odeBlockId>20251120044516NMNSBE</odeBlockId>
+          <odeIdeviceId>202511090124117557MI</odeIdeviceId>
+          <odeIdeviceTypeName>progress-report</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="informe-IDevice">
+                    <div class="informe-DataGame js-hidden">{"typeGame":"Progress Report","typeshow":0,"evaluationID":"20251108223212BOZEYH","number":0,"showDate":true,"showTypeGame":true,"activeLinks":true,"userData":true,"sessionIdevices":[{"id":"20251106230018MGZNLH","parentId":null,"title":"Unidad 1 Introducción a las fracciones","navId":4,"ode_nav_structure_sync_id":null,"ode_session_id":"20251108223209HUAHZQ","ode_nav_structure_sync_order":1,"navIsActive":1,"components":[{"ideviceID":"20251108192550597P8E","evaluationID":"","evaluation":null,"componentId":1,"ode_pag_structure_sync_id":1,"componentSessionId":"20251108223209HUAHZQ","componentPageId":"20251106230018MGZNLH","ode_block_id":"202511081925506141UA","blockName":"Introducción a las fracciones","blockOrder":1,"ode_idevice_id":"20251108192550597P8E","odeIdeviceTypeName":"text","ode_components_sync_order":1,"componentIsActive":1}],"children":[{"id":"202511082227306880KM","parentId":"20251106230018MGZNLH","title":"Introducción","navId":5,"ode_nav_structure_sync_id":4,"ode_session_id":"20251108223209HUAHZQ","ode_nav_structure_sync_order":1,"navIsActive":1,"components":[{"ideviceID":"20251108200252823Y3S","evaluationID":"","evaluation":null,"componentId":3,"ode_pag_structure_sync_id":3,"componentSessionId":"20251108223209HUAHZQ","componentPageId":"202511082227306880KM","ode_block_id":"20251108200252836VIV","blockName":"Introducción","blockOrder":1,"ode_idevice_id":"20251108200252823Y3S","odeIdeviceTypeName":"text","ode_components_sync_order":1,"componentIsActive":1}],"children":[{"id":"20251108222832035XYX","parentId":"202511082227306880KM","title":"Objetivos","navId":6,"ode_nav_structure_sync_id":5,"ode_session_id":"20251108223209HUAHZQ","ode_nav_structure_sync_order":1,"navIsActive":1,"components":[{"ideviceID":"20251108205121647GOD","evaluationID":"","evaluation":null,"componentId":4,"ode_pag_structure_sync_id":4,"componentSessionId":"20251108223209HUAHZQ","componentPageId":"20251108222832035XYX","ode_block_id":"20251108205121657D9F","blockName":"Objetivos","blockOrder":1,"ode_idevice_id":"20251108205121647GOD","odeIdeviceTypeName":"text","ode_components_sync_order":1,"componentIsActive":1}],"children":[],"url":"objetivos"}],"url":"introduccion"},{"id":"20251108222948653TE3","parentId":"20251106230018MGZNLH","title":"¿Qué son las fracciones?","navId":7,"ode_nav_structure_sync_id":4,"ode_session_id":"20251108223209HUAHZQ","ode_nav_structure_sync_order":2,"navIsActive":1,"components":[{"ideviceID":"20251108211326322ALA","evaluationID":"","evaluation":null,"componentId":5,"ode_pag_structure_sync_id":5,"componentSessionId":"20251108223209HUAHZQ","componentPageId":"20251108222948653TE3","ode_block_id":"20251108211326338GGI","blockName":"¿Qué son las fracciones?","blockOrder":1,"ode_idevice_id":"20251108211326322ALA","odeIdeviceTypeName":"text","ode_components_sync_order":1,"componentIsActive":1},{"ideviceID":"202511082122128005TD","evaluationID":"20251108223212BOZEYH","evaluation":null,"componentId":8,"ode_pag_structure_sync_id":8,"componentSessionId":"20251108223209HUAHZQ","componentPageId":"20251108222948653TE3","ode_block_id":"20251108212212809AII","blockName":"Clasifica","blockOrder":2,"ode_idevice_id":"202511082122128005TD","odeIdeviceTypeName":"classify","ode_components_sync_order":1,"componentIsActive":1}],"children":[{"id":"20251108224210256OD1","parentId":"20251108222948653TE3","title":"Tipos de fracciones","navId":8,"ode_nav_structure_sync_id":7,"ode_session_id":"20251108223209HUAHZQ","ode_nav_structure_sync_order":1,"navIsActive":1,"components":[{"ideviceID":"20251108224336717G20","evaluationID":"","evaluation":null,"componentId":9,"ode_pag_structure_sync_id":9,"componentSessionId":"20251108223209HUAHZQ","componentPageId":"20251108224210256OD1","ode_block_id":"202511082243367302I7","blockName":"Mapa conceptual Tipos de fracciones","blockOrder":1,"ode_idevice_id":"20251108224336717G20","odeIdeviceTypeName":"text","ode_components_sync_order":1,"componentIsActive":1},{"ideviceID":"20251108225336405AJV","evaluationID":"","evaluation":null,"componentId":11,"ode_pag_structure_sync_id":11,"componentSessionId":"20251108223209HUAHZQ","componentPageId":"20251108224210256OD1","ode_block_id":"20251108225336416X4J","blockName":"Crea Fracciones propias y mixtas","blockOrder":2,"ode_idevice_id":"20251108225336405AJV","odeIdeviceTypeName":"external-website","ode_components_sync_order":1,"componentIsActive":1}],"children":[],"url":"tipos-de-fracciones"}],"url":"que-son-las-fracciones"},{"id":"20251108225246702M4D","parentId":"20251106230018MGZNLH","title":"Suma y Resta de fracciones","navId":10,"ode_nav_structure_sync_id":4,"ode_session_id":"20251108223209HUAHZQ","ode_nav_structure_sync_order":3,"navIsActive":1,"components":[{"ideviceID":"20251108233404417U4U","evaluationID":"","evaluation":null,"componentId":12,"ode_pag_structure_sync_id":12,"componentSessionId":"20251108223209HUAHZQ","componentPageId":"20251108225246702M4D","ode_block_id":"20251108233404430VX1","blockName":"Suma de fracciones","blockOrder":1,"ode_idevice_id":"20251108233404417U4U","odeIdeviceTypeName":"text","ode_components_sync_order":1,"componentIsActive":1},{"ideviceID":"20251108234818610VHI","evaluationID":"","evaluation":null,"componentId":13,"ode_pag_structure_sync_id":13,"componentSessionId":"20251108223209HUAHZQ","componentPageId":"20251108225246702M4D","ode_block_id":"20251108234818621FV8","blockName":"Resta de fracciones","blockOrder":2,"ode_idevice_id":"20251108234818610VHI","odeIdeviceTypeName":"text","ode_components_sync_order":1,"componentIsActive":1}],"children":[{"id":"202511082355465956TH","parentId":"20251108225246702M4D","title":"Ejercicio suma y resta de fracciones","navId":11,"ode_nav_structure_sync_id":10,"ode_session_id":"20251108223209HUAHZQ","ode_nav_structure_sync_order":1,"navIsActive":1,"components":[{"ideviceID":"20251109003027624D3K","evaluationID":"20251108223212BOZEYH","evaluation":null,"componentId":19,"ode_pag_structure_sync_id":19,"componentSessionId":"20251108223209HUAHZQ","componentPageId":"202511082355465956TH","ode_block_id":"20251109003027635FO6","blockName":"Ejercicios suma y resta de fracciones","blockOrder":1,"ode_idevice_id":"20251109003027624D3K","odeIdeviceTypeName":"trivial","ode_components_sync_order":1,"componentIsActive":1}],"children":[],"url":"ejercicio-suma-y-resta-de-fracciones"}],"url":"suma-y-resta-de-fracciones"},{"id":"20251109005543116RJ1","parentId":"20251106230018MGZNLH","title":"Fracciones equivalentes","navId":12,"ode_nav_structure_sync_id":4,"ode_session_id":"20251108223209HUAHZQ","ode_nav_structure_sync_order":4,"navIsActive":1,"components":[{"ideviceID":"20251109005609506KWN","evaluationID":"","evaluation":null,"componentId":21,"ode_pag_structure_sync_id":21,"componentSessionId":"20251108223209HUAHZQ","componentPageId":"20251109005543116RJ1","ode_block_id":"20251109005609518XW3","blockName":"Fracciones equivalentes","blockOrder":1,"ode_idevice_id":"20251109005609506KWN","odeIdeviceTypeName":"text","ode_components_sync_order":1,"componentIsActive":1}],"children":[{"id":"20251109010026273PBV","parentId":"20251109005543116RJ1","title":"Empareja Fracciones con su Imagen","navId":13,"ode_nav_structure_sync_id":12,"ode_session_id":"20251108223209HUAHZQ","ode_nav_structure_sync_order":1,"navIsActive":1,"components":[{"ideviceID":"20251109010219187ZTL","evaluationID":"","evaluation":null,"componentId":23,"ode_pag_structure_sync_id":23,"componentSessionId":"20251108223209HUAHZQ","componentPageId":"20251109010026273PBV","ode_block_id":"20251109010219197VIY","blockName":"Empareja las fracciones con sus equivalentes","blockOrder":1,"ode_idevice_id":"20251109010219187ZTL","odeIdeviceTypeName":"external-website","ode_components_sync_order":1,"componentIsActive":1}],"children":[],"url":"empareja-fracciones-con-su-imagen"}],"url":"fracciones-equivalentes"},{"id":"2025110901050564236Z","parentId":"20251106230018MGZNLH","title":"Evaluación","navId":14,"ode_nav_structure_sync_id":4,"ode_session_id":"20251108223209HUAHZQ","ode_nav_structure_sync_order":5,"navIsActive":1,"components":[],"children":[{"id":"20251109010645777RCH","parentId":"2025110901050564236Z","title":"Crea tu propio problema","navId":15,"ode_nav_structure_sync_id":14,"ode_session_id":"20251108223209HUAHZQ","ode_nav_structure_sync_order":1,"navIsActive":1,"components":[{"ideviceID":"20251109011732214INN","evaluationID":"","evaluation":null,"componentId":26,"ode_pag_structure_sync_id":26,"componentSessionId":"20251108223209HUAHZQ","componentPageId":"20251109010645777RCH","ode_block_id":"20251109011732224IN8","blockName":"Elaboración de un problema haciendo el uso de fracciones","blockOrder":1,"ode_idevice_id":"20251109011732214INN","odeIdeviceTypeName":"text","ode_components_sync_order":1,"componentIsActive":1},{"ideviceID":"2025110901102130898N","evaluationID":"","evaluation":null,"componentId":25,"ode_pag_structure_sync_id":25,"componentSessionId":"20251108223209HUAHZQ","componentPageId":"20251109010645777RCH","ode_block_id":"20251109011021319EBF","blockName":"Rúbrica","blockOrder":2,"ode_idevice_id":"2025110901102130898N","odeIdeviceTypeName":"rubric","ode_components_sync_order":1,"componentIsActive":1}],"children":[{"id":"20251109012404946VNT","parentId":"20251109010645777RCH","title":"Informe de actividades","navId":16,"ode_nav_structure_sync_id":15,"ode_session_id":"20251108223209HUAHZQ","ode_nav_structure_sync_order":1,"navIsActive":1,"components":[{"ideviceID":"202511090124117557MI","evaluationID":"","evaluation":null,"componentId":27,"ode_pag_structure_sync_id":27,"componentSessionId":"20251108223209HUAHZQ","componentPageId":"20251109012404946VNT","ode_block_id":"20251109012411763K3C","blockName":"Informe de progreso","blockOrder":1,"ode_idevice_id":"202511090124117557MI","odeIdeviceTypeName":"progress-report","ode_components_sync_order":1,"componentIsActive":1}],"children":[],"url":"informe-de-actividades"}],"url":"crea-tu-propio-problema"}],"url":"evaluacion"}],"url":"index"}],"msgs":{"msgSummary":"Resumen de las actividades","msgNoCompletedActivities":"No has completado ninguna de las actividades sugeridas para ser evaluado.","msgNoPendientes":"Número de actividades pendientes: %s.","msgCompletedActivities":"La siguiente tabla recoge los resultados que has obtenido en las actividades evaluables propuestas en este recurso educativo que ya has completado.","msgAverageScore":"Nota media","msgReboot":"Reiniciar","msgReload":"Edita este iDevice para actualizar su contenido.","mssActivitiesNumber":"Nº Actividades: %s","msgActivitiesCompleted":"Completadas: %s","msgAverageScore1":"Nota media: %s","msgAverageScoreCompleted":"Nota media de las actividades completadas: %s","msgDelete":"Esto eliminará las puntuaciones almacenadas de todas las actividades ¿Estás seguro de que deseas continuar?","msgSections":"Secciones del recurso educativo","msgSave":"Guardar","msgReport":"informe_de_progreso","msgReportTitle":"Informe de progreso","msgType":"Tipo","msgSeeActivity":"Ir a la actividad","mgsSections":"Secciones del recurso educativo","msgName":"Nombre","msgDate":"Fecha","msgNotCompleted":"Sin completar","msgNotData":"Error al recuperar los datos","msgScoredActivities":"Actividades calificadas","msgInEXE":"En modo de vista previa, visita este informe de progreso para ver el estado de todas las actividades calificadas asociadas. Este estado puede ser:","msgInEXE2":"Este mensaje solo se mostrará en modo de edición.","msgUncompletedActivity":"Actividad no completada","msgUnsuccessfulActivity":"Actividad no exitosa","msgSuccessfulActivity":"Actividad exitosa","msgLocalMode":"Los resultados de las actividades no se pueden mostrar dentro de la aplicación.","msgDownload":"Descargar el informe de progreso"}}</div>
+                    <div class="informe-bns js-hidden">undefined</div>
+                </div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosryn9j-s76etx6io</odePageId>
+  <odeParentPageId>page-mosryn9h-8ddwttnx3</odeParentPageId>
+  <pageName>Foro de evaluación</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Foro de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Foro de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosryn9j-s76etx6io</odePageId>
+      <odeBlockId>20251120044516CPHXVI</odeBlockId>
+      <blockName>Foro Wooclap</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosryn9j-s76etx6io</odePageId>
+          <odeBlockId>20251120044516CPHXVI</odeBlockId>
+          <odeIdeviceId>20251109142150010DW0</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://app.wooclap.com/QUYEMA?from=instruction-slide" size="3" width="600" height="500" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
